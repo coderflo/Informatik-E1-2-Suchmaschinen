@@ -1,0 +1,22 @@
+/*
+ *    Hintergrundeinstellungen
+*/
+#background {
+    
+    background-color: #f0f0f2;
+    margin: 0;
+    padding: 0;
+    
+}
+
+/*
+ * Diese ID ist dem div-Container zugewiesen, in dem alle anderen ELemente sind
+*/
+#main {
+    
+    width: 60%;
+    margin: 10% auto;
+    padding: 5%;
+    background-color: #fff;
+    
+}
