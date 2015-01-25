@@ -20,3 +20,7 @@
     background-color: #fff;
     
 }
+
+.clear_float {
+    clear: both;
+}
