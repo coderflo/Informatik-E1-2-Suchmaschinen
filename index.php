@@ -16,27 +16,7 @@
         <div id="main">
             
             <!-- Navigation/Menü -->
-            <nav>
-                
-                <ul>
-                    
-                    <li id="item_home"><a href="index.html">Home</a></li>
-                    
-                    <li id="item_suchmaschinen">
-                        
-                        <a href="#">Suchmaschinen</a>
-                        
-                        <ul>
-                            <li><a href="google.html">Google</a></li>
-                        </ul>
-                        
-                    </li>
-                    
-                </ul>
-                
-            </nav>
-            
-            <div class="clear_float"></div>
+            <?php include('php/nav_bar.php') ?>
             
             <main>
                 
