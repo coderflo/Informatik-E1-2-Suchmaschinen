@@ -5,6 +5,8 @@
         
         <title>Suchmaschinen</title>
         
+        <link rel="icon" href="img/monitor.jpg" type="image/jpg" />
+        
         <link rel="stylesheet" type="text/css" href="css/style.css" />
         <link rel="stylesheet" type="text/css" href="css/navigation.css" />
         
@@ -29,6 +31,8 @@
                 -->
                 
                 <h1>Suchmaschinen</h1>
+                
+                <img src="img/monitor.jpg" width="424,3548387096774px" height="300px">
                 
                 <p>
                     
