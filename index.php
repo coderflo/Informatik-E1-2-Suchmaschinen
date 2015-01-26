@@ -41,9 +41,10 @@
                 
                 <p>
                     
-                    <i>
-                        Design by <a href="http://example.com">example.com</a> 
-                    </i>
+                    Suchmaschinen funktionieren nach einem einfachen Prinzip: Sie schicken Bots los, die alle Internetseiten, die sie finden, archivieren und alle Links, die auf dieser Website vorhanden sind, besuchen.
+                    <br>
+                    Dennoch gibt es nichts im Leben umsonst - eben so wenig eine Suchmaschine: Suchmaschinen schalten Webrung in die Seite mit den Suchergebnissen. F&uuml;r Werbepartner ist es besonders gut, wenn ihre Kaffe-Werbung auch wirklich nur Kaffee-Interessierten gezeigt wird und nicht Tee-Liebhabern.
+                    Aus diesem Grund speichern Suchmaschinen alles, was sie &uuml;ber uns erfahren und erstellen so ein Werbeprofil.
                     
                 </p>
                 

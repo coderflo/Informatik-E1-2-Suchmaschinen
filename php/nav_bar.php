@@ -4,12 +4,14 @@
                     
         <li id="item_home"><a href="index.php">Home</a></li>
                     
-        <li id="item_suchmaschinen">
+        <li id="item_explanations">
                         
-            <a href="#">Suchmaschinen</a>
+            <a href="#">Erkl&auml;rungen</a>
                         
             <ul>
-                <li><a href="google.php">Google</a></li>
+                <li><a href="#">Bots</a></li>
+                <li><a href="#">Ranking</a></li>
+                <li><a href="#">Werbeprofil</a></li>
             </ul>
                         
         </li>
