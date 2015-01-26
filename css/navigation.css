@@ -15,9 +15,10 @@ nav ul {
     
 }
 
-nav ul li{
+nav ul li {
     
     float: left;
+    font-size: 120%;
     
 }
 
@@ -28,14 +29,42 @@ nav ul li a {
     
 }
 
-nav ul li ul{
+nav ul li a:after {
     
-    display: none;
+    content: "\00a0";
     
 }
 
-nav ul li:hover ul{
+nav ul li ul {
+    
+    display: none;
+    position: fixed;
+    
+}
+
+nav ul li:hover ul {
     
     display: block;
+    background-color: #8AE6D5;
+    
+}
+
+nav ul li ul li a:after {
+    
+    content: "";
+    
+}
+
+/*Hier kommen die Klassen/IDs für die einzelnen Menüfelder, also z.B. für Farbe,... */
+
+#item_home {
+    
+    background-color: #D1B5F5;
+    
+}
+
+#item_suchmaschinen {
+    
+    background-color: #8AE6D5;
     
 }
