@@ -48,9 +48,9 @@ nav ul li:hover ul {
     
 }
 
-nav ul li ul li a:before, nav ul li ul li a:after {
+nav ul li ul li a:before{
     
-    content: "";
+    content: "\00a0";
     
 }
 
@@ -58,6 +58,12 @@ nav ul li ul li {
     
     float: none;
     clear: both;
+    
+}
+
+nav ul li ul li a:after {
+    
+    content: "";
     
 }
 
