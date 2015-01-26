@@ -44,7 +44,6 @@ nav ul li ul {
 nav ul li:hover ul {
     
     display: block;
-    background-color: #8AE6D5;
     
 }
 
@@ -69,15 +68,20 @@ nav ul li ul li a:after {
 
 /*Hier kommen die Klassen/IDs für die einzelnen Menüfelder, also z.B. für Farbe,... */
 
-/* Farben auf jedenfall in irgendwas, das ins Design passt ändern! */
 #item_home {
     
     background-color: #D1B5F5;
     
 }
 
-#item_explanations {
+#item_explanations, #item_explanations ul li {
     
     background-color: #8AE6D5;
+    
+}
+
+#item_suchmaschinen, #item_suchmaschinen ul li {
+    
+    background-color: #CDDB7D;
     
 }

@@ -15,6 +15,17 @@
             </ul>
                         
         </li>
+        
+        <li id="item_suchmaschinen">
+            
+            <a href="#">Suchmaschinen</a>
+            
+            <ul>
+                <li><a href="#">Google</a></li>
+                <li><a href="#">DuckDuckGo</a></li>
+            </ul>
+            
+        </li>
                     
     </ul>
                 
