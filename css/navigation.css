@@ -1,6 +1,5 @@
 nav {
     
-    float: left;
     font-size: 120%;
     
 }
@@ -38,7 +37,7 @@ nav ul li a:after, nav ul li a:before {
 nav ul li ul {
     
     display: none;
-    position: fixed;
+    position: absolute;
     
 }
 
@@ -49,15 +48,16 @@ nav ul li:hover ul {
     
 }
 
-nav ul li ul li a:before {
+nav ul li ul li a:before, nav ul li ul li a:after {
     
-    content: "\00a0";
+    content: "";
     
 }
 
-nav ul li ul li a:after {
+nav ul li ul li {
     
-    content: "";
+    float: none;
+    clear: both;
     
 }
 
