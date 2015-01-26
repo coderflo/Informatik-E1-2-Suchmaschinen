@@ -35,7 +35,7 @@
                     
                     Suchmaschinen wie Google und co finden sich in allen Bereichen unseres Lebens.
                     <br>
-                    Auf dieser Website wird erkl&auml;rt und gezeigt, wie Suchmaschinen funktionieren und was sie alles &uuml;ber dich wissen!
+                    Auf dieser Website wird erkl&auml;rt und gezeigt, wie Suchmaschinen funktionieren und was sie alles &uuml;ber dich wissen! Au&szlig;erdem werden hier Alternativen zu Google und co vorgestellt.
                     
                 </p>
                 
