@@ -4,6 +4,8 @@
     <head>
         
         <title>Suchmaschinen</title>
+		
+		<link rel="stylesheet" href="css/stylesheet.css" type="text/css">
         
         <?php include('php/basic_head.php') ?>
         
