@@ -4,15 +4,14 @@
     <head>
         
         <title>Suchmaschinen</title>
-		
-		<link rel="stylesheet" href="css/stylesheet.css" type="text/css">
         
-        <?php include('php/basic_head.php') ?>
+        <?php
+			include("php/basic_head.php");
+		?>
         
     </head>
     
-    <body id="background">
-        
+    <body id="background">        
         
         <div id="main">
             
