@@ -21,6 +21,8 @@
         <?php
 			include("php/basic_head.php");
 		?>
+		
+		<link rel="stylesheet" type="text/css" href="css/page/index.css" />
         
     </head>
     
@@ -43,7 +45,7 @@
                 
                 <h1>Suchmaschinen</h1>
                 
-                <img src="img/monitor.jpg" width="424,3548387096774px" height="300px">
+                <img src="img/monitor.jpg" class="width60">
                 
                 <p>
                     
