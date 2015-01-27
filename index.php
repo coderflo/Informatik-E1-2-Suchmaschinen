@@ -4,6 +4,19 @@
     <head>
         
         <title>Suchmaschinen</title>
+		
+		<!-- Basic Meta -->
+		
+		<meta name="author" content="Florian Marwitz, Marius Funke">
+		<meta name="description" content="BESCHREIBUNG">
+		<meta name="keywords" content="KEYWORDS">
+		<meta name="date" content="RELEASE-DATE + UHRZEIT">
+		
+		<!-- Advanced Meta
+		
+		COMING SOON
+		
+		-->
         
         <?php
 			include("php/basic_head.php");
