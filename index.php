@@ -10,11 +10,8 @@
 		<meta name="author" content="Florian Marwitz, Marius Funke">
 		<meta name="description" content="BESCHREIBUNG">
 		<meta name="keywords" content="KEYWORDS">
-		<meta name="date" content="RELEASE-DATE + UHRZEIT">
 		
-		<!-- Zur Prävention vor Webcrawlern-->
-		
-		<meta name="robots" content="noindex, nofollow">		
+		<meta charset="UTF-8">		
         
         <?php
 			include("php/basic_head.php");
