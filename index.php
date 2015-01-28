@@ -12,11 +12,9 @@
 		<meta name="keywords" content="KEYWORDS">
 		<meta name="date" content="RELEASE-DATE + UHRZEIT">
 		
-		<!-- Advanced Meta
+		<!-- Zur Prävention vor Webcrawlern-->
 		
-		COMING SOON
-		
-		-->
+		<meta name="robots" content="noindex, nofollow">		
         
         <?php
 			include("php/basic_head.php");
