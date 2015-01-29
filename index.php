@@ -25,8 +25,12 @@
         
         <div id="main">
             
-            <!-- Navigation/Menü -->
-            <?php include('php/nav_bar.php') ?>
+            <header>
+                
+                <!-- Navigation/Menü -->
+                <?php include('php/nav_bar.php') ?>
+                
+            </header>
             
             <main>
                 
