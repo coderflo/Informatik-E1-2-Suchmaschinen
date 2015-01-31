@@ -18,11 +18,11 @@
         
         <li id="item_suchmaschinen">
             
-            <a href="#">Suchmaschinen</a>
+            <a href="suchmaschinen.php">Suchmaschinen</a>
             
             <ul>
-                <li><a href="#">Google</a></li>
-                <li><a href="#">DuckDuckGo</a></li>
+                <li><a href="suchmaschinen.php#suchmaschinen">Google und Co.</a></li>
+                <li><a href="suchmaschinen.php#alternativen">Alternativen</a></li>
             </ul>
             
         </li>
