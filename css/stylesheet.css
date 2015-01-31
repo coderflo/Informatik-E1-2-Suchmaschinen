@@ -12,7 +12,7 @@
 /*
  * Diese ID ist dem div-Container zugewiesen, in dem alle anderen Elemente sind
 */
-#main {
+#wrapper {
     
     width: 60%;
     margin: 10% auto;
