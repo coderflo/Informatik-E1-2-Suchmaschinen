@@ -41,11 +41,11 @@ nav ul li ul {
     
 }
 
-nav ul li:hover ul {
+/*nav ul li:hover ul {
     
     display: block;
     
-}
+}*/
 
 nav ul li ul li a:before{
     
@@ -66,11 +66,25 @@ nav ul li ul li a:after {
     
 }
 
+/* Effekte */
+
+nav ul li a{
+    
+    transition: all 0.5s linear;
+  
+}
+
 /*Hier kommen die Klassen/IDs für die einzelnen Menüfelder, also z.B. für Farbe,... */
 
 #item_home {
     
     background-color: #D1B5F5;
+    
+}
+
+#item_home a:hover {
+    
+    background-color: red;
     
 }
 
@@ -80,8 +94,20 @@ nav ul li ul li a:after {
     
 }
 
+#item_explanations a:hover {
+    
+    background-color: blue;
+    
+}
+
 #item_suchmaschinen, #item_suchmaschinen ul li {
     
     background-color: #CDDB7D;
+    
+}
+
+#item_suchmaschinen a:hover {
+    
+    background-color: orange;
     
 }

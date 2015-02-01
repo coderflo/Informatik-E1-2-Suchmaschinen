@@ -2,7 +2,7 @@
                 
      <ul>
                     
-        <li id="item_home"><a href="index.php">Home</a></li>
+        <li id="item_home"><a href="index.php">Startseite</a></li>
                     
         <li id="item_explanations">
                         
@@ -31,3 +31,5 @@
 </nav>
             
 <div class="clear_float"></div>
+
+<script src="js/navigation.js"></script>
