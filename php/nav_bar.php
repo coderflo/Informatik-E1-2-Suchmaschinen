@@ -6,12 +6,11 @@
                     
         <li id="item_explanations">
                         
-            <a href="#">Erkl&auml;rungen</a>
+            <a href="funktionsweise.php">Funktionsweise</a>
                         
             <ul>
-                <li><a href="#">Bots</a></li>
-                <li><a href="#">Ranking</a></li>
-                <li><a href="#">Werbeprofil</a></li>
+                <li><a href="funktionsweise.php#suchergebnisse">Suchergebnisse</a></li>
+                <li><a href="funktionsweise.php#werbung">Werbung</a></li>
             </ul>
                         
         </li>
