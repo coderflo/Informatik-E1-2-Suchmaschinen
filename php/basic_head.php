@@ -1,4 +1,12 @@
-<link rel="icon" href="img/monitor.jpg" type="image/jpg" />
+<!-- Für alle Browser außer Internet Explorer -->
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="img/favicon.ico">
+
+<!-- Nur für Internet Explorer
+
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="img/favicon.ico">
+
+-->
         
 <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
 <link rel="stylesheet" type="text/css" href="css/navigation.css" />
