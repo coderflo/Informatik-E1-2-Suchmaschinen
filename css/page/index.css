@@ -1,5 +1,6 @@
-.width60 {
+.centered_image {
     
-    max-width: 60%;
+    width: 60%;
+    margin: 0 20%;
     
 }
