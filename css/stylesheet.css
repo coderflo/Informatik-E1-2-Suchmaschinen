@@ -3,7 +3,7 @@
 */
 #background {
     
-    background-color: #FCFCFC;
+    background-color: #FAFAFA;
     margin: 0;
     padding: 0;
     
@@ -19,7 +19,7 @@
     margin: 10% auto;
     padding: 5%;
     background-color: #FFFFFF;
-	box-shadow: 5px 5px 10px #0F0F0F;
+	box-shadow: 2px 2px 2px #dfdfdf;
     
 }
 
