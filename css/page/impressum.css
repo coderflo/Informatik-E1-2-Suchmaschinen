@@ -1,4 +1,4 @@
-.no_link a {
+.no_link a { /* UNNÖTIG! Bereits durch css/stylesheet.css vorhanden ;) */
     
     text-decoration: none;
     color: black;

@@ -36,40 +36,77 @@
                 
                 <h2>Inhaltsverzeichnis</h2>
                 
+                <p class="admin_note">
+                    Bitte anpassen, sodass hier wirklich alle Suchmaschinen stehen, die wir behandeln!
+                    <br>
+                    Dann w&uuml;rde ich n&auml;mlich schonmal mit den Texten beginnen!
+                </p>
+                
                 <ol class="no_link">
                     
                     <li>
-                        
-                        <a href="#suchmaschinen">Google und Co.</a>
-                        
-                        <ol>
-                            <li><a href="#google">Google</a></li>
-                            <li>Andere Suchmaschinen hier einf&uuml;gen und dann auch weiter unten einen Text mit &Uuml;berschrift und so...</li>
-                        </ol>
-                        
+                        <a href="#ixquick">Ixquick</a>
                     </li>
-                    <li><a href="#alternativen">M&ouml;gliche Alternativen</a></li>
+                    
+                    <li>
+                        <a href="#wolframalpha">Wolfram Alpha</a>
+                    </li>
+                    
+                    <li>
+                        <a href="#duckduckgo">DuckDuckGo</a>
+                    </li>
+                    
+                    <li>
+                        <a href="#fragfinn">Fragfinn</a>
+                    </li>
                     
                 </ol>
                 
-                <h1><a name="suchmaschinen">Google und Co.</a></h1>
-                
-                <p>
-                    Voll cooler Einleitungstext!
-                </p>
-                
-                <h2><a name="google">Google</a></h2>
-                
-                <p>
-                    Richtig informativer Text &uuml;ber Google
-                </p>
-                
-                <h1><a name="alternativen">M&ouml;gliche Alternativen</a></h1>
-                
-                <p>
-                    Werbung f&uuml;r Alternativen zu Google
-                </p>
-                
+               <h1>Suchmaschinenname</h1>
+               
+               <p>
+                   
+                   Vorstellung der Suchmaschine
+                   
+               </p>
+               
+               <h3>Vorteile</h3>
+               
+               <!-- Hier bewusst keine <p> Tags, da hier nur kurze Stichpunkte stehen sollen!
+                   Sollte hier ein längerer Text stehen bitte <p> Tags verwenden!
+                -->
+               
+               <ol>
+                   
+                   <li>
+                       Vorteil #1
+                   </li>
+                   
+                   <li>
+                       Vorteil #2
+                   </li>
+                   
+               </ol>
+               
+               <h3>Nachteile</h3>
+               
+               
+               <!-- Hier bewusst keine <p> Tags, da hier nur kurze Stichpunkte stehen sollen!
+                   Sollte hier ein längerer Text stehen bitte <p> Tags verwenden!
+                -->
+               
+               <ol>
+                   
+                   <li>
+                       Nachteil #1
+                   </li>
+                   
+                   <li>
+                       Nachteil #2
+                   </li>
+                   
+               </ol>
+               
             </main>
             
         </div>

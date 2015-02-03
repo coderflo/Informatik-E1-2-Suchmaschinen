@@ -33,3 +33,18 @@
     color: black;
     
 }
+
+.admin_note {
+    
+    color: red;
+    
+    font-style: italic;
+    
+}
+
+.admin_note:before {
+    
+    color: black;
+    content: "Admin Note:";
+    
+}

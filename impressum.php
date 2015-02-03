@@ -17,7 +17,7 @@
 			include("php/basic_head.php");
 		?>
 		
-		<link rel="stylesheet" type="text/css" href="css/page/suchmaschinen.css" />
+		<link rel="stylesheet" type="text/css" href="css/page/impressum.css" />
         
     </head>
     
@@ -34,7 +34,7 @@
             
             <main>
                 
-                <h2>Impressum</h2>
+                <h1>Impressum</h1>
                 
             </main>
             
