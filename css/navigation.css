@@ -51,33 +51,9 @@ nav ul li a {
 	
 }
 
-nav ul li.item_home:hover a, nav ul li.item_home:hover > ul li a {
-	
-	background-color: #E6DD00;
-	
-}
-
-nav ul li.item_explanation:hover a, nav ul li.item_explanation:hover > ul li a {
-	
-	background-color: #8CB302;
-	
-}
-
-nav ul li.item_alts:hover a, nav ul li.item_alts:hover > ul li a {
-	
-	background-color: #008C74;
-	
-}
-
-nav ul li.item_legal:hover a, nav ul li.item_legal:hover > ul li a {
-	
-	background-color: #004C66;
-	
-}
-
 nav ul li:hover > ul {
 	
-	visibility:visible;
+	visibility: visible;
 	
 }
 
@@ -113,5 +89,30 @@ nav ul li ul li a:hover {
 	
 	color: #333333;
 	background-color: #FAFAFA;
+	
+}
+
+
+nav ul li.item_home:hover a, nav ul li.item_home:hover > ul li a {
+	
+	background-color: #E6DD00;
+	
+}
+
+nav ul li.item_explanation:hover a, nav ul li.item_explanation:hover > ul li a {
+	
+	background-color: #8CB302;
+	
+}
+
+nav ul li.item_alts:hover a, nav ul li.item_alts:hover > ul li a {
+	
+	background-color: #008C74;
+	
+}
+
+nav ul li.item_legal:hover a, nav ul li.item_legal:hover > ul li a {
+	
+	background-color: #004C66;
 	
 }
