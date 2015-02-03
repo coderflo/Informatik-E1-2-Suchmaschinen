@@ -3,7 +3,7 @@
 */
 #background {
     
-    background-color: #FCFCFC;
+    background-color: #FAFAFA;
     margin: 0;
     padding: 0;
     
@@ -11,6 +11,7 @@
 
 /*
  * Diese ID ist dem div-Container zugewiesen, in dem alle anderen Elemente sind
+ * BOX-SHADOW: Bitte ideale Werte austesten: xpx ypx zpx - x= x-Verschiebung, y= y-Verschiebung, z= Schatten-Härte
 */
 #wrapper {
     
@@ -18,6 +19,7 @@
     margin: 10% auto;
     padding: 5%;
     background-color: #FFFFFF;
+	box-shadow: 2px 2px 2px #dfdfdf;
     
 }
 

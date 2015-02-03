@@ -2,34 +2,38 @@
                 
      <ul>
                     
-        <li id="item_home"><a href="index.php">Startseite</a></li>
+        <li class = "item_home">
+			<a href="index.php">Startseite</a>
+		</li>
                     
-        <li id="item_explanations">
-                        
-            <a href="funktionsweise.php">Funktionsweise</a>
-                        
-            <ul>
-                <li><a href="funktionsweise.php#suchergebnisse">Suchergebnisse</a></li>
-                <li><a href="funktionsweise.php#werbung">Werbung</a></li>
-            </ul>
-                        
+        <li class = "item_explanation">
+			<a href="google.php">Google</a>
+				<ul>
+					<li><a href="google.php#suchergebnisse">Suchergebnisse</a></li>
+					<li><a href="google.php#werbung">Werbung</a></li>
+				</ul>                        
         </li>
         
-        <li id="item_suchmaschinen">
-            
-            <a href="suchmaschinen.php">Suchmaschinen</a>
-            
-            <ul>
-                <li><a href="suchmaschinen.php#suchmaschinen">Google und Co.</a></li>
-                <li><a href="suchmaschinen.php#alternativen">Alternativen</a></li>
-            </ul>
-            
+        <li class = "item_alts">           
+            <a href="suchmaschinen.php">Alternativen</a>            
+				<ul>
+					<li><a href="suchmaschinen.php#ixquick">Ixquick</a></li>
+					<li><a href="suchmaschinen.php#wolfram_alpha">Wolfram Alpha</a></li>
+					<li><a href="suchmaschinen.php#duckduckgo">DuckDuckGo</a></li>
+					<li><a href="suchmaschinen.php#fragfinn">FragFinn</a></li>
+				</ul>           
         </li>
+		
+		<li class = "item_legal">           
+			<a href="impressum.php">Impressum</a>
+		</li>	
                     
     </ul>
                 
 </nav>
-            
-<div class="clear_float"></div>
+
+<!-- JAVA SCRIPT
 
 <script src="js/navigation.js"></script>
+
+-->

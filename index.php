@@ -44,7 +44,7 @@
                 
                 <h1>Suchmaschinen</h1>
                 
-                <img src="img/monitor.jpg" class="centered_image">
+                <img src="img/monitor.jpg" class="width60 centered_image">
                 
                 <p>
                     

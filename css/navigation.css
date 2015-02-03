@@ -1,113 +1,117 @@
-nav {
-    
-    font-size: 120%;
-    
+nav {   
+	
 }
 
 nav ul {
-    
-    margin: 0;
-    padding: 0;
-    
-    list-style: none;
-    list-style-type: none;
-    list-style-image: none;
-    
+	
+	padding: 0px;
+	margin: 0px;
+	
+	box-shadow: 5px 5px 5px #DFDFDF;
+	-moz-box-shadow: 2px 2px 2px #DFDFDF;
+	-webkit-box-shadow: 2px 2px 2px #DFDFDF;
+	
+}
+
+nav ul:after {
+	
+	clear: both;
+	content: " ";
+	display: block;
+	font-size: 0;
+	height: 0;
+	visibility: hidden;
+	
+}
+
+nav ul, nav ul li {
+	
+	background-color: #FAFAFA;
+	
 }
 
 nav ul li {
-    
-    float: left;
-    
+	
+	list-style: none;
+	float: left;
+	border-right: 1px solid #DFDFDF;
+	
 }
 
 nav ul li a {
-    
-    text-decoration: none;
-    color: black;
+	
+	text-decoration: none;
+	display: block;
+	color: #333333;
+	padding: 14px 34px;
+	
+	-webkit-transition: background 0.3s ease-out 0s;
+	-moz-transition: background 0.3s ease-out 0s;
+	transition: background 0.3s ease-out 0s;
+	
+}
+
+nav ul li.item_home:hover a, nav ul li.item_home:hover > ul li a {
+	
+	background-color: #E6DD00;
+	
+}
+
+nav ul li.item_explanation:hover a, nav ul li.item_explanation:hover > ul li a {
+	
+	background-color: #8CB302;
+	
+}
+
+nav ul li.item_alts:hover a, nav ul li.item_alts:hover > ul li a {
+	
+	background-color: #008C74;
+	
+}
+
+nav ul li.item_legal:hover a, nav ul li.item_legal:hover > ul li a {
+	
+	background-color: #004C66;
+	
+}
+
+nav ul li:hover > ul {
+	
+	visibility:visible;
+	
+}
+
+nav ul li:hover > a {
+	
+    color: #FAFAFA;
     
 }
 
-nav ul li a:after, nav ul li a:before {
-    
-    content: "\00a0";
+nav ul li ul li a {
+	
+    color: #FAFAFA;
     
 }
 
 nav ul li ul {
-    
-    display: none;
-    position: absolute;
-    
-}
-
-/*nav ul li:hover ul {
-    
-    display: block;
-    
-}*/
-
-nav ul li ul li a:before{
-    
-    content: "\00a0";
-    
+	
+	display: inline;
+	visibility: hidden;
+	
+	position: absolute;
+	padding: 0px;
+	
 }
 
 nav ul li ul li {
-    
-    float: none;
-    clear: both;
-    
+	
+	float: none;
+	
 }
 
-nav ul li ul li a:after {
-    
-    content: "";
-    
-}
-
-/* Effekte */
-
-nav ul li a{
-    
-    transition: all 0.5s linear;
-  
-}
-
-/*Hier kommen die Klassen/IDs für die einzelnen Menüfelder, also z.B. für Farbe,... */
-
-#item_home {
-    
-    background-color: #D1B5F5;
-    
-}
-
-#item_home a:hover {
-    
-    background-color: red;
-    
-}
-
-#item_explanations, #item_explanations ul li {
-    
-    background-color: #8AE6D5;
-    
-}
-
-#item_explanations a:hover {
-    
-    background-color: blue;
-    
-}
-
-#item_suchmaschinen, #item_suchmaschinen ul li {
-    
-    background-color: #CDDB7D;
-    
-}
-
-#item_suchmaschinen a:hover {
-    
-    background-color: orange;
-    
+nav ul li ul li a:hover {
+	
+	color: #333333;
+	background-color: #FAFAFA;
+	
 }
