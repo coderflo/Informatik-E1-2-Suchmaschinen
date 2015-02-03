@@ -11,4 +11,9 @@
 <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
 <link rel="stylesheet" type="text/css" href="css/navigation.css" />
 
-<script src="js/jquery-1.11.2.min.js"></script>
+<!-- jQuery -->
+<script src="jQuery/js/jquery.js"></script>
+<script src="jQuery/js/jquery-ui.js"></script>
+
+<link rel="stylesheet" type="text/css" href="jQuery/css/jquery-ui.css" />
+<link rel="stylesheet" type="text/css" href="jQuery/css/jquery-ui.theme.css" />

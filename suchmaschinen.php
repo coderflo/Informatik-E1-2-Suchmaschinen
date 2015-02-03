@@ -18,6 +18,8 @@
 		?>
 		
 		<link rel="stylesheet" type="text/css" href="css/page/suchmaschinen.css" />
+		
+		<script src="js/page/suchmaschinen.js"></script>
         
     </head>
     
@@ -40,72 +42,118 @@
                     Bitte anpassen, sodass hier wirklich alle Suchmaschinen stehen, die wir behandeln!
                     <br>
                     Dann w&uuml;rde ich n&auml;mlich schonmal mit den Texten beginnen!
+                    <br>
+                    Die folgende unordered-list wird entfernt, sobald alle Suchmaschinentexte geschrieben sind!
                 </p>
                 
-                <ol class="no_link">
+                <ul>
                     
-                    <li>
-                        <a href="#ixquick">Ixquick</a>
-                    </li>
+                    <li>Suchmaschinenname 1</li>
+                    <li>Suchmaschinenname 2</li>
                     
-                    <li>
-                        <a href="#wolframalpha">Wolfram Alpha</a>
-                    </li>
-                    
-                    <li>
-                        <a href="#duckduckgo">DuckDuckGo</a>
-                    </li>
-                    
-                    <li>
-                        <a href="#fragfinn">Fragfinn</a>
-                    </li>
-                    
-                </ol>
+                </ul>
                 
-               <h1>Suchmaschinenname</h1>
-               
-               <p>
+               <div id="alternativen">
                    
-                   Vorstellung der Suchmaschine
-                   
-               </p>
+                   <h1>Suchmaschinenname 1</h1>
                
-               <h3>Vorteile</h3>
-               
-               <!-- Hier bewusst keine <p> Tags, da hier nur kurze Stichpunkte stehen sollen!
-                   Sollte hier ein längerer Text stehen bitte <p> Tags verwenden!
-                -->
-               
-               <ol>
+                   <div>
+                       
+                       <p>
+                           
+                           Vorstellung der Suchmaschine
+                           
+                       </p>
+                       
+                       <h3>Vorteile</h3>
+                       
+                       <!-- Hier bewusst keine <p> Tags, da hier nur kurze Stichpunkte stehen sollen!
+                           Sollte hier ein längerer Text stehen bitte <p> Tags verwenden!
+                        -->
+                       
+                       <ol>
+                           
+                           <li>
+                               Vorteil #1
+                           </li>
+                           
+                           <li>
+                               Vorteil #2
+                           </li>
+                           
+                       </ol>
+                       
+                       <h3>Nachteile</h3>
+                       
+                       
+                       <!-- Hier bewusst keine <p> Tags, da hier nur kurze Stichpunkte stehen sollen!
+                           Sollte hier ein längerer Text stehen bitte <p> Tags verwenden!
+                        -->
+                       
+                       <ol>
+                           
+                           <li>
+                               Nachteil #1
+                           </li>
+                           
+                           <li>
+                               Nachteil #2
+                           </li>
+                           
+                       </ol>
+                       
+                   </div>
                    
-                   <li>
-                       Vorteil #1
-                   </li>
-                   
-                   <li>
-                       Vorteil #2
-                   </li>
-                   
-               </ol>
+                   <h1>Suchmaschinenname 2</h1>
                
-               <h3>Nachteile</h3>
-               
-               
-               <!-- Hier bewusst keine <p> Tags, da hier nur kurze Stichpunkte stehen sollen!
-                   Sollte hier ein längerer Text stehen bitte <p> Tags verwenden!
-                -->
-               
-               <ol>
+                   <div>
+                       
+                       <p>
+                           
+                           Vorstellung der Suchmaschine
+                           
+                       </p>
+                       
+                       <h3>Vorteile</h3>
+                       
+                       <!-- Hier bewusst keine <p> Tags, da hier nur kurze Stichpunkte stehen sollen!
+                           Sollte hier ein längerer Text stehen bitte <p> Tags verwenden!
+                        -->
+                       
+                       <ol>
+                           
+                           <li>
+                               Vorteil #1
+                           </li>
+                           
+                           <li>
+                               Vorteil #2
+                           </li>
+                           
+                       </ol>
+                       
+                       <h3>Nachteile</h3>
+                       
+                       
+                       <!-- Hier bewusst keine <p> Tags, da hier nur kurze Stichpunkte stehen sollen!
+                           Sollte hier ein längerer Text stehen bitte <p> Tags verwenden!
+                        -->
+                       
+                       <ol>
+                           
+                           <li>
+                               Nachteil #1
+                           </li>
+                           
+                           <li>
+                               Nachteil #2
+                           </li>
+                           
+                       </ol>
+                       
+                   </div>
                    
-                   <li>
-                       Nachteil #1
-                   </li>
-                   
-                   <li>
-                       Nachteil #2
-                   </li>
-                   
-               </ol>
+               </div>
                
             </main>
             

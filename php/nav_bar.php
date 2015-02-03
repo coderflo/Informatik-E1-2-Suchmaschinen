@@ -17,10 +17,10 @@
         <li class = "item_alts">           
             <a href="suchmaschinen.php">Alternativen</a>            
 				<ul>
-					<li><a href="suchmaschinen.php#ixquick">Ixquick</a></li>
-					<li><a href="suchmaschinen.php#wolfram_alpha">Wolfram Alpha</a></li>
-					<li><a href="suchmaschinen.php#duckduckgo">DuckDuckGo</a></li>
-					<li><a href="suchmaschinen.php#fragfinn">FragFinn</a></li>
+					<li><a href="suchmaschinen.php">Ixquick</a></li>
+					<li><a href="suchmaschinen.php">Wolfram Alpha</a></li>
+					<li><a href="suchmaschinen.php">DuckDuckGo</a></li>
+					<li><a href="suchmaschinen.php">FragFinn</a></li>
 				</ul>           
         </li>
 		
@@ -31,9 +31,3 @@
     </ul>
                 
 </nav>
-
-<!-- JAVA SCRIPT
-
-<script src="js/navigation.js"></script>
-
--->
