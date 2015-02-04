@@ -7,7 +7,7 @@
 		</li>
                     
         <li class = "item_explanation">
-			<a href="google.php">Google</a>
+			<a href="google.php">Erklärungen</a>
 				<ul>
 					<li><a href="google.php#suchergebnisse">Suchergebnisse</a></li>
 					<li><a href="google.php#werbung">Werbung</a></li>
