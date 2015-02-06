@@ -1,4 +1,12 @@
 <!DOCTYPE html>
+<?php
+
+$item = false;
+if(isset($_GET['item'])){
+    $item = $_GET['item'];
+}
+
+?>
 <html>
     
     <head>
@@ -36,7 +44,9 @@
             
             <main>
                 
-                <h2>Inhaltsverzeichnis</h2>
+                <p>
+                    Hier w&uuml;rde dann der Einleitungstext stehen...
+                </p>
                 
                 <p class="admin_note">
                     Bitte anpassen, sodass hier wirklich alle Suchmaschinen stehen, die wir behandeln!
@@ -48,14 +58,15 @@
                 
                 <ul>
                     
-                    <li>Suchmaschinenname 1</li>
-                    <li>Suchmaschinenname 2</li>
+                    <li>DuckDuckGo</li>
+                    <li>Wolfram Alpha</li>
+                    <li>FragFinn</li>
                     
                 </ul>
                 
                <div id="alternativen">
                    
-                   <h1>Suchmaschinenname 1</h1>
+                   <h1>DuckDuckGo</h1>
                
                    <div>
                        
@@ -104,7 +115,56 @@
                        
                    </div>
                    
-                   <h1>Suchmaschinenname 2</h1>
+                   <h1>Wolfram Alpha</h1>
+               
+                   <div>
+                       
+                       <p>
+                           
+                           Vorstellung der Suchmaschine
+                           
+                       </p>
+                       
+                       <h3>Vorteile</h3>
+                       
+                       <!-- Hier bewusst keine <p> Tags, da hier nur kurze Stichpunkte stehen sollen!
+                           Sollte hier ein längerer Text stehen bitte <p> Tags verwenden!
+                        -->
+                       
+                       <ol>
+                           
+                           <li>
+                               Vorteil #1
+                           </li>
+                           
+                           <li>
+                               Vorteil #2
+                           </li>
+                           
+                       </ol>
+                       
+                       <h3>Nachteile</h3>
+                       
+                       
+                       <!-- Hier bewusst keine <p> Tags, da hier nur kurze Stichpunkte stehen sollen!
+                           Sollte hier ein längerer Text stehen bitte <p> Tags verwenden!
+                        -->
+                       
+                       <ol>
+                           
+                           <li>
+                               Nachteil #1
+                           </li>
+                           
+                           <li>
+                               Nachteil #2
+                           </li>
+                           
+                       </ol>
+                       
+                   </div>
+                   
+                   <h1>FragFinn</h1>
                
                    <div>
                        
@@ -158,6 +218,21 @@
             </main>
             
         </div>
+        
+        <script>
+            
+            var item = <?php echo $item ?>;
+            
+            $(function(){
+    
+                $("#alternativen").accordion({
+                    collapsible: true,
+                    active: item
+                });
+                
+            });
+            
+        </script>
         
     </body>
     

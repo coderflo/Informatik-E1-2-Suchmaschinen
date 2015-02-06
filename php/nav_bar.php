@@ -17,10 +17,9 @@
         <li class = "item_alts">           
             <a href="suchmaschinen.php">Alternativen</a>            
 				<ul>
-					<li><a href="suchmaschinen.php">Platzhalter #1</a></li>
-					<li><a href="suchmaschinen.php">Platzhalter #2</a></li>
-					<li><a href="suchmaschinen.php">Platzhalter #3</a></li>
-					<li><a href="suchmaschinen.php">Platzhalter #4</a></li>
+					<li><a href="suchmaschinen.php?item=0">DuckDuckGo</a></li>
+					<li><a href="suchmaschinen.php?item=1">Wolfram Alpha</a></li>
+					<li><a href="suchmaschinen.php?item=2">FragFinn</a></li>
 				</ul>           
         </li>
 		
