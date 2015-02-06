@@ -7,20 +7,20 @@
 		</li>
                     
         <li class = "item_explanation">
-			<a href="google.php">Erklärungen</a>
+			<a href="explanations.php">Erklärungen</a>
 				<ul>
-					<li><a href="google.php#suchergebnisse">Suchergebnisse</a></li>
-					<li><a href="google.php#werbung">Werbung</a></li>
+					<li><a href="explanations.php#suchergebnisse">Suchergebnisse</a></li>
+					<li><a href="explanations.php#werbung">Werbung</a></li>
 				</ul>                        
         </li>
         
         <li class = "item_alts">           
             <a href="suchmaschinen.php">Alternativen</a>            
 				<ul>
-					<li><a href="suchmaschinen.php">Ixquick</a></li>
-					<li><a href="suchmaschinen.php">Wolfram Alpha</a></li>
-					<li><a href="suchmaschinen.php">DuckDuckGo</a></li>
-					<li><a href="suchmaschinen.php">FragFinn</a></li>
+					<li><a href="suchmaschinen.php">Platzhalter #1</a></li>
+					<li><a href="suchmaschinen.php">Platzhalter #2</a></li>
+					<li><a href="suchmaschinen.php">Platzhalter #3</a></li>
+					<li><a href="suchmaschinen.php">Platzhalter #4</a></li>
 				</ul>           
         </li>
 		
