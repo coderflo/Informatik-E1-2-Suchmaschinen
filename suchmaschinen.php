@@ -3,7 +3,7 @@
     
     <head>
         
-        <title>Suchmaschinen</title>
+        <title>Alternativen</title>
 		
 		<!-- Basic Meta (kopiert aus index.php)-->
 		
