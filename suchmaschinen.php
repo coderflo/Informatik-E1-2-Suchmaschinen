@@ -1,12 +1,4 @@
 <!DOCTYPE html>
-<?php
-
-$item = false;
-if(isset($_GET['item'])){
-    $item = $_GET['item'];
-}
-
-?>
 <html>
     
     <head>
@@ -26,8 +18,6 @@ if(isset($_GET['item'])){
 		?>
 		
 		<link rel="stylesheet" type="text/css" href="css/page/suchmaschinen.css" />
-		
-		<script src="js/page/suchmaschinen.js"></script>
         
     </head>
     
@@ -221,7 +211,17 @@ if(isset($_GET['item'])){
         
         <script>
             
-            var item = <?php echo $item ?>;
+            function getURLParameter(name) {
+              var value = decodeURIComponent((RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, ""])[1]);
+              return (value !== 'null') ? value : false;
+            }
+            
+            var item = false;
+            
+            var parameter = getURLParameter("item");
+            if(parameter){
+                item = parseInt(parameter);
+            }
             
             $(function(){
     
