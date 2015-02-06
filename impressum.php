@@ -34,6 +34,10 @@
             
             <main>
                 
+                <!-- Impressum beinhaltet bis jetzt nur meine (Florians) Daten;
+                     Je nach Bedarf ändern!
+                -->
+                
                 <div class='impressum'>
                 
                     <h1>Impressum</h1>
@@ -51,6 +55,8 @@
                         <strong>Vertreten durch: </strong>
                         <br>
                         Florian Marwitz
+                        <br>
+                        Marius Funke
                         <br>
                     </p>
                     
