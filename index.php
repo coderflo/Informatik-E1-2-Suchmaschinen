@@ -34,6 +34,10 @@
             
             <main>
                 
+                <p class="admin_note">
+                    Der Inhalt dieser Seite wird gerade &uuml;berarbeitet!
+                </p>
+                
                 <!--
                     In diesen Container kommen alle anderen Elemente
                 -->
@@ -48,18 +52,36 @@
                 
                 <p>
                     
-                    Suchmaschinen wie Google und co finden sich in allen Bereichen unseres Lebens.
-                    <br>
-                    Auf dieser Website wird erkl&auml;rt und gezeigt, wie Suchmaschinen funktionieren und was sie alles &uuml;ber dich wissen! Au&szlig;erdem werden hier Alternativen zu Google und co vorgestellt.
+                    Google ist die mit Abstand bekanneste Suchmaschine, rund 4500 Suchanfragen werden bei Google pro Sekunde gestellt.
+                    Dadurch verdient Google ungef&auml;hr 1750$. Davon flie&szig;en rund 270$ in die Forschung ein, zum Beispiel in die der selbstfahrenden Autos.
                     
                 </p>
                 
                 <p>
                     
-                    Suchmaschinen funktionieren nach einem einfachen Prinzip: Sie schicken Bots los, die alle Internetseiten, die sie finden, archivieren und alle Links, die auf dieser Website vorhanden sind, besuchen.
+                    Aber Google ist nicht die einzige Suchmaschine, es gibt neben Google noch viele andere Suchmaschinen, wie zum Beispiel Kindersuchmaschinen oder wissenschaftliche Suchmaschinen oder aber auch Konkurrenten von Google!
+                    
                     <br>
-                    Dennoch gibt es nichts im Leben umsonst - eben so wenig eine Suchmaschine: Suchmaschinen schalten Webrung in die Seite mit den Suchergebnissen. F&uuml;r Werbepartner ist es besonders gut, wenn ihre Kaffe-Werbung auch wirklich nur Kaffee-Interessierten gezeigt wird und nicht Tee-Liebhabern.
-                    Aus diesem Grund speichern Suchmaschinen alles, was sie &uuml;ber uns erfahren und erstellen so ein Werbeprofil.
+                    
+                    Auch wenn alle Suchmaschinen vielleicht diesen Eindruck hinterlassen, aber Suchmaschinen existieren nicht, weil es uns hilft!
+                    Sie existieren vielmehr, weil man damit Geld verdienen kann! Und je mehr Suchanfragen gestellt werden,
+                    desto mehr verdient die Suchmaschine.
+                    
+                </p>
+                
+                <p>
+                    
+                    Damit eine Suchmaschine so viel Geld wie m&ouml;glich verdienen kann, spioniert diese ihre Nutzer aus. Zwar nicht
+                    genauso wie die NSA, aber sie beobachten uns: Sie speichern alle Suchanfragen und merken sich, welche Suchergebnisse
+                    wir anklicken. Sie besuchen unser Twitter, Instagram oder Facebook (oder auch jedes andere Profil) und schauen sich
+                    an, was wir so alles teilen. Dies benutzt Google dann aber nicht mehr, um uns besser kennenzulernen,
+                    sondern um neue Webseiten in das SUchregister aufzunehmen und bestehende Webseiten neu zu bewerten.
+                    
+                </p>
+                
+                <p>
+                    
+                    Wie genau Suchmaschinen funktionieren, wird <a href="explanations.php">hier</a> genau erkl&auml;rt!
                     
                 </p>
                 
