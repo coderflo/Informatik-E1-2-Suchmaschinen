@@ -34,10 +34,6 @@
             
             <main>
                 
-                <p class="admin_note">
-                    Der Inhalt dieser Seite wird gerade &uuml;berarbeitet!
-                </p>
-                
                 <!--
                     In diesen Container kommen alle anderen Elemente
                 -->
@@ -48,12 +44,12 @@
                 
                 <h1>Suchmaschinen</h1>
                 
-                <img src="img/monitor.jpg" class="width60 centered_image">
+                <img src="img/monitor.jpg" class="width60">
                 
                 <p>
                     
                     Google ist die mit Abstand bekanneste Suchmaschine, rund 4500 Suchanfragen werden bei Google pro Sekunde gestellt.
-                    Dadurch verdient Google ungef&auml;hr 1750$. Davon flie&szig;en rund 270$ in die Forschung ein, zum Beispiel in die der selbstfahrenden Autos.
+                    Dadurch verdient Google ungef&auml;hr 1750$. Davon flie&szlig;en rund 270$ in die Forschung ein, zum Beispiel in die der selbstfahrenden Autos.
                     
                 </p>
                 
@@ -75,7 +71,7 @@
                     genauso wie die NSA, aber sie beobachten uns: Sie speichern alle Suchanfragen und merken sich, welche Suchergebnisse
                     wir anklicken. Sie besuchen unser Twitter, Instagram oder Facebook (oder auch jedes andere Profil) und schauen sich
                     an, was wir so alles teilen. Dies benutzt Google dann aber nicht mehr, um uns besser kennenzulernen,
-                    sondern um neue Webseiten in das SUchregister aufzunehmen und bestehende Webseiten neu zu bewerten.
+                    sondern um neue Webseiten in das Suchregister aufzunehmen und bestehende Webseiten neu zu bewerten.
                     
                 </p>
                 
