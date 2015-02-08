@@ -17,7 +17,7 @@
 			include("php/basic_head.php");
 		?>
 		
-		<link rel="stylesheet" type="text/css" href="css/page/funktionsweise.css" />
+		<link rel="stylesheet" type="text/css" href="css/page/explanations.css" />
         
     </head>
     
