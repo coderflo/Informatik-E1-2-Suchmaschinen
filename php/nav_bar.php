@@ -18,8 +18,9 @@
             <a href="suchmaschinen.php">Alternativen</a>            
 				<ul>
 					<li><a href="suchmaschinen.php?item=0">DuckDuckGo</a></li>
-					<li><a href="suchmaschinen.php?item=1">Wolfram Alpha</a></li>
-					<li><a href="suchmaschinen.php?item=2">FragFinn</a></li>
+					<li><a href="suchmaschinen.php?item=1">MetaGer</a></li>
+					<li><a href="suchmaschinen.php?item=2">Wolfram Alpha</a></li>
+					<li><a href="suchmaschinen.php?item=3">FragFinn</a></li>
 				</ul>           
         </li>
 		

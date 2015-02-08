@@ -49,6 +49,7 @@
                 <ul>
                     
                     <li>DuckDuckGo</li>
+                    <li>MetaGer 3 Beta</li>
                     <li>Wolfram Alpha</li>
                     <li>FragFinn</li>
                     
@@ -57,6 +58,55 @@
                <div id="alternativen">
                    
                    <h1>DuckDuckGo</h1>
+               
+                   <div>
+                       
+                       <p>
+                           
+                           Vorstellung der Suchmaschine
+                           
+                       </p>
+                       
+                       <h3>Vorteile</h3>
+                       
+                       <!-- Hier bewusst keine <p> Tags, da hier nur kurze Stichpunkte stehen sollen!
+                           Sollte hier ein längerer Text stehen bitte <p> Tags verwenden!
+                        -->
+                       
+                       <ol>
+                           
+                           <li>
+                               Vorteil #1
+                           </li>
+                           
+                           <li>
+                               Vorteil #2
+                           </li>
+                           
+                       </ol>
+                       
+                       <h3>Nachteile</h3>
+                       
+                       
+                       <!-- Hier bewusst keine <p> Tags, da hier nur kurze Stichpunkte stehen sollen!
+                           Sollte hier ein längerer Text stehen bitte <p> Tags verwenden!
+                        -->
+                       
+                       <ol>
+                           
+                           <li>
+                               Nachteil #1
+                           </li>
+                           
+                           <li>
+                               Nachteil #2
+                           </li>
+                           
+                       </ol>
+                       
+                   </div>
+                   
+                   <h1>MetaGer</h1>
                
                    <div>
                        
