@@ -119,9 +119,8 @@
                        
                        <p>
                            
-                           <a href="http://WolframAlpha.com">WolframAlpha</a> erinnert stark an den allwissenden Computer aus Star Trek.
-                          
-                           <br>
+                           <a href="http://WolframAlpha.com">WolframAlpha</a> erinnert stark an den allwissenden Computer aus Star Trek.                          
+						   <br>
                            WolframAlpha erm&ouml;glicht es dir, ganz normale Fragen zu stellen,
                            die es analysiert und dann die Antwort anzeigt. Leider gibt es WolframAlpha nur auf Englisch,
                            dennoch lohnt sich ein Besuch durchaus, denn es werden allerhand Informationen zu der Suchanfrage ausgegeben.
@@ -168,7 +167,12 @@
                        
                        <p>
                            
-                           Vorstellung der Suchmaschine
+                           <a href="http://www.fragfinn.de/kinderliste.html">FragFinn</a> ist eine Suchmaschine, die speziell f&uuml;r Kinder entwickelt und optimiert wurde.
+						   <br>
+						   Hierbei f&auml;llt auf, dass sich neben der eigentlichen Suchmaschine noch viele Extras f&uuml;r Kinder finden lassen.
+						   <br>
+						   FragFinn bietet zum Beispiel einen Suchtipp des Tages, Spiele oder Nachrichten - alles jedoch sehr kindlich gestaltet und dementsprechend auch eher f&uuml;r diese Zielgruppe vorgesehen.
+						   Die Organisation legt dabei viel Wert auf den Schutz der Kinder im Internet und gibt somit nur Suchergebnisse aus, die f&uuml;r Kinder geeignet sind.
                            
                        </p>
                        
@@ -181,12 +185,17 @@
                        <ol>
                            
                            <li>
-                               Vorteil #1
+                               Kindgerecht gestaltet
                            </li>
                            
                            <li>
-                               Vorteil #2
+                               Relativ Sicherer Filter der Suchergebnisse
                            </li>
+						   
+						   <li>
+							   Viele Extras
+							</li>
+						
                            
                        </ol>
                        
@@ -200,11 +209,11 @@
                        <ol>
                            
                            <li>
-                               Nachteil #1
+                               Sehr eingeschr&auml;nkte Suchergebnisse aufgrund fl&auml;chendeckender Filter
                            </li>
                            
                            <li>
-                               Nachteil #2
+                               &uuml;bersichtlichkeit leidet teilweise etwas unter den vielen Extra-Funktionen
                            </li>
                            
                        </ol>
