@@ -43,10 +43,6 @@
                     
                 </p>
                 
-                <p class="admin_note" style="font-size:200%">
-                    Es fehlt nur noch der Eintrag &uuml;ber FragFinn!
-                </p>
-                
                <div id="alternativen">
                    
                    <h1>DuckDuckGo</h1>

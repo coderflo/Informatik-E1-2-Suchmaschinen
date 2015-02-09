@@ -44,11 +44,11 @@
                         
                         <a href="#suchergebnisse">Suchergebnisse</a>
                         
-                        <ol>
+                        <ul>
                             <li><a href="#bots">Bots</a></li>
                             <li><a href="#ranking">Ranking</a></li>
                             <li><a href="#seo">Search Engine Optimization</a></li>
-                        </ol>
+                        </ul>
                         
                     </li>
                     
@@ -56,10 +56,10 @@
                         
                         <a href="#werbung">Werbung</a>
                         
-                        <ol>
+                        <ul>
                             <li><a href="#anzeigen">Anzeigen</a></li>
                             <li><a href="#werbeprofil">Werbeprofil</a></li>
-                        </ol>
+                        </ul>
                         
                     </li>
                     
