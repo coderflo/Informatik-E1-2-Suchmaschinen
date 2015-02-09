@@ -36,28 +36,16 @@
                 
                 <p>
                     
-                    Hier findest du [ZAHL] Alternativen zu Google, dabei hat jede Alternative seine Vor- und Nachteile.
+                    Hier findest du 3 Alternativen zu Google, dabei hat jede Alternative seine Vor- und Nachteile.
                     <br>
                     Urteile selbst, welche Suchmaschine am besten zu dir passt oder bleib bei deiner bisherigen, falls dir diese
                     nicht gefallen.
                     
                 </p>
                 
-                <p class="admin_note">
-                    Bitte anpassen, sodass hier wirklich alle Suchmaschinen stehen, die wir behandeln!
-                    <br>
-                    Dann w&uuml;rde ich n&auml;mlich schonmal mit den Texten beginnen!
-                    <br>
-                    Die folgende unordered-list wird entfernt, sobald alle Suchmaschinentexte geschrieben sind!
+                <p class="admin_note" style="font-size:200%">
+                    Es fehlt nur noch der Eintrag &uuml;ber FragFinn!
                 </p>
-                
-                <ul>
-                    
-                    <li><strike>DuckDuckGo</strike></li>
-                    <li>Wolfram Alpha</li>
-                    <li>FragFinn</li>
-                    
-                </ul>
                 
                <div id="alternativen">
                    
@@ -131,43 +119,43 @@
                        
                        <p>
                            
-                           Vorstellung der Suchmaschine
+                           <a href="http://WolframAlpha.com">WolframAlpha</a> erinnert stark an den allwissenden Computer aus Star Trek.
+                          
+                           <br>
+                           WolframAlpha erm&ouml;glicht es dir, ganz normale Fragen zu stellen,
+                           die es analysiert und dann die Antwort anzeigt. Leider gibt es WolframAlpha nur auf Englisch,
+                           dennoch lohnt sich ein Besuch durchaus, denn es werden allerhand Informationen zu der Suchanfrage ausgegeben.
+                           <br>
+                           <br>
+                           WoflramAlpha kann zum Beispiel etwas mit etwas anderem vergleichen oder auch Graphen anzeigen und vieles mehr.
+                           <br>
+                           Probier es doch selbst einmal:
+                           <a href="http://www.wolframalpha.com/input/?i=where+am+i">Wo bin ich?</a>
+                           -
+                           <a href="http://www.wolframalpha.com/input/?i=f%28x%29%3D4x%2B2">f(x)=4x+2</a>
                            
                        </p>
                        
                        <h3>Vorteile</h3>
                        
-                       <!-- Hier bewusst keine <p> Tags, da hier nur kurze Stichpunkte stehen sollen!
-                           Sollte hier ein längerer Text stehen bitte <p> Tags verwenden!
-                        -->
-                       
                        <ol>
                            
                            <li>
-                               Vorteil #1
+                               normale und erweitere Eingabe (Fragestellung, Stichwort,...)
                            </li>
                            
                            <li>
-                               Vorteil #2
+                               
                            </li>
                            
                        </ol>
                        
                        <h3>Nachteile</h3>
                        
-                       
-                       <!-- Hier bewusst keine <p> Tags, da hier nur kurze Stichpunkte stehen sollen!
-                           Sollte hier ein längerer Text stehen bitte <p> Tags verwenden!
-                        -->
-                       
                        <ol>
                            
                            <li>
-                               Nachteil #1
-                           </li>
-                           
-                           <li>
-                               Nachteil #2
+                               nur auf Englisch
                            </li>
                            
                        </ol>
