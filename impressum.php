@@ -48,7 +48,14 @@
                         Gluckensteinweg 150
                         <br> 
                         61350 Bad Homburg
+                        <br>
+						<br>
+						Marius Funke
                         <br> 
+                        Forsthausstra&szlig;e 18
+                        <br> 
+                        61273 Wehrheim
+                        <br>
                     </p>
                     
                     <p>
@@ -65,7 +72,8 @@
                         <br>
                         Telefon: XXXX-XXXXXXXXXXX
                         <br>
-                        E-Mail: <a href='mailto:flo.marwitz@gmail.com'>flo.marwitz@gmail.com</a>
+                        E-Mail Florian: <a href='mailto:flo.marwitz@gmail.com'>flo.marwitz@gmail.com</a>
+						E-Mail Marius: <a href='mailto:mariusfunke99@web.de'>mariusfunke99@web.de</a>
                         </br>
                     </p>
                         

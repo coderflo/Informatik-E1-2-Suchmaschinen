@@ -23,6 +23,35 @@
     
 }
 
+/*
+ * TEXT-Style
+*/
+
+body {
+	
+    font-family: Arial, Helvetica;
+}
+
+p {
+	color: #333333;
+	
+}
+
+li {
+	color: #333333;
+	
+}
+
+h1 {
+	color: #333333;
+	
+}
+
+h3 {
+	color: #333333;
+	
+}
+
 .clear_float {
     clear: both;
 }
