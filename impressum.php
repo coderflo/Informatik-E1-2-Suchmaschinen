@@ -73,6 +73,7 @@
                         Telefon: XXXX-XXXXXXXXXXX
                         <br>
                         E-Mail Florian: <a href='mailto:flo.marwitz@gmail.com'>flo.marwitz@gmail.com</a>
+						<br>
 						E-Mail Marius: <a href='mailto:mariusfunke99@web.de'>mariusfunke99@web.de</a>
                         </br>
                     </p>
