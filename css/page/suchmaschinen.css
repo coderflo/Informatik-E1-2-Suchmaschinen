@@ -1,0 +1,31 @@
+.ui-accordion {
+  
+  background-color: #FAFAFA;
+    
+}
+
+.ui-accordion-header {
+    
+    color: #333333;
+    background-color: #FAFAFA;
+    
+    font-weight: normal;
+    
+}
+
+.ui-accordion-header:hover {
+    
+    background-color: #008C74;
+    
+    color: #FAFAFA;
+    
+    border: 1px solid #333333;
+    
+}
+
+.ui-accordion-content {
+    
+    background-color: #FAFAFA;
+    font-size: 12pt;
+    
+}

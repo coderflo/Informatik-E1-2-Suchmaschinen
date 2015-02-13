@@ -139,10 +139,6 @@
                                normale und erweitere Eingabe (Fragestellung, Stichwort,...)
                            </li>
                            
-                           <li>
-                               
-                           </li>
-                           
                        </ol>
                        
                        <h3>Nachteile</h3>
@@ -233,7 +229,7 @@
             
             var parameter = getURLParameter("item");
             if(parameter){
-                item = parseInt(parameter);
+                item = parseInt(parameter, 0);
             }
             
             $(function(){
